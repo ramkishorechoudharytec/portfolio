@@ -1,11 +1,7 @@
 # Portfolio – Ramkishore Choudhary
 
-Full-stack web developer, Delhi. Single-file static site (`index.html`), no build step.
+Portfolio website of Ramkishore Choudhary, a full-stack web developer based in Delhi, India.
 
-## Update kaise karein
-Text, number ya links badalne ke liye `index.html` kholo, badlo aur commit karo. Vercel/Netlify par connected ho toh site apne aap update ho jaati hai.
+**Live:** https://ramkishorechoudharytec.github.io/portfolio/
 
-## Deploy
-1. vercel.com ya netlify.com par GitHub se login karo
-2. Is repo ko import karo (Framework: "Other", build command khaali)
-3. Deploy dabao. Live link mil jaayega
+A single-file static site (`index.html`) with no build step. To update content, edit `index.html` and commit; GitHub Pages redeploys automatically.
